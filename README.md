@@ -1,4 +1,4 @@
-🎁 Building [Barreleye](https://barreleye.com/), [Fossfox](https://fossfox.com/) & [@EmailWrapper](https://twitter.com/EmailWrapper)
+⭐ Building [Barreleye — open-source blockchain analytics](https://barreleye.com/) and [Templateless — email sending using just code](https://templateless.com/)
 
 🦑 Maintainer of [Sqids](https://sqids.org/)
 

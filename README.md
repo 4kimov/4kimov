@@ -1,4 +1,4 @@
-⭐ Building [Barreleye — open-source blockchain analytics](https://barreleye.com/) and [Templateless — email sending using just code](https://templateless.com/)
+⭐ Building [Templateless — email sending using just code](https://templateless.com/) and [Barreleye — open-source blockchain analytics](https://barreleye.com/)
 
 🦑 Maintainer of [Sqids](https://sqids.org/)
 

@@ -1,4 +1,4 @@
-⭐ Building [Templateless — email sending using just code](https://templateless.com/)
+🚢 Building [Templateless — email-as-code platform](https://templateless.com/)
 
 🦑 Maintainer of [Sqids](https://sqids.org/)
 
